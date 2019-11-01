@@ -821,6 +821,13 @@ const devices = [
         extend: hue.light_onoff_brightness_colortemp_colorxy,
     },
     {
+        zigbeeModel: ['LTG002'],
+        model: 'LTG002',
+        vendor: 'Philips',
+        description: 'Hue white and color ambiance GU10 v2',
+        extend: hue.light_onoff_brightness_colortemp_colorxy,
+    },
+    {
         zigbeeModel: ['LCT024'],
         model: '915005733701',
         vendor: 'Philips',
